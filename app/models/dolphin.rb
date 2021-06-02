@@ -1,0 +1,2 @@
+class Dolphin < ApplicationRecord
+end
